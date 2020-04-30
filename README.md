@@ -32,7 +32,7 @@ We are small enough to know that if there is no speed we won't be hear tomorrow.
 
 **Diego - it is my fault** - [@diealvarado](https://twitter.com/diealvarado)
 
-Diego is the Product Owner, Sales guys and everything where there is a postion stablished.
+Diego is the Product Owner, Sales guys, Operations and everything where there is no position setablished.
 
 **Jesse - Development guru**
 
