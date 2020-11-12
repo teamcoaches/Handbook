@@ -34,11 +34,11 @@ We are small enough to know that if there is no speed we won't be hear tomorrow.
 
 **Diego - it is my fault** - [@diealvarado](https://twitter.com/diealvarado) [linkedin](https://www.linkedin.com/in/alvarado/)
 
-Diego is the Product Owner, Sales guys, Operations and everything where there is no position setablished.
+Diego is the Product Owner, Sales guys, Operations and everything where there is no position established.
 
 **Jesse - Development guru** [linkedin](https://www.linkedin.com/in/jesse-holden)
 
-Jesse has made things happen in our code. He has make thing work from a non exiting product.
+Jesse is in charge of development and deployment. He mainly focuses on the back-end (API/Databases/Docker) but also orchestrates larger front-end features.
 
 ## Development 
 ### Agile Methodology
