@@ -51,3 +51,24 @@ Jesse is in charge of development and deployment. He mainly focuses on the back-
 
 Agustín is in charge of front-end development and systems engineering student. He makes things visualy better and apply new concepts constantly. drummes
 
+## Our story
+
+After years of mentoring and coaching, innovation programs are getting complex and bigger every day. Our vision is that every innovation program uses a set of tools to increase the success rate for startups and project being incubated.
+
+To achieve that we have built a simple B2B SAAS platform for innovation programs that integrates collaboration, operation, community, and portfolio all in one place. 
+Programs will be centralized in one platform that will help them to make decision quicker. That will reduce the waste and increase efficiency.
+
+However the intension is also to help entrepreneur to start learning a productivity world making a simple approach to look for objectives, mentrics, initiatives and tasks.
+
+## Handbook Use and Policy
+This Employee Handbook describes the employment policies applicable to all employees of the Company. Where there are differences in the terms applicable to employees in different jurisdictions, the differences are noted in the Handbook. This Handbook is not a contract, express or implied, guaranteeing employment for any specific duration.
+
+This Handbook is designed to familiarize employees with the employment policies of Team Coaches. Employees should read, understand, and comply with all provisions of the Handbook. It describes many of the responsibilities of an employee and outlines the programs developed by Team Coaches to benefit its employees.
+
+No Employee Handbook can anticipate every circumstance or question about policy. As Team Coaches continues to grow and as business needs, employment legislation and economic conditions change, Team Coaches reserves the right to revise, supplement, or rescind any policies or portion of the Handbook from time to time as it deems appropriate, in its sole and absolute discretion. No statement or promise by any other member of the Company can be interpreted as a change in policy nor will it constitute an agreement with an employee. Employees will be notified of such changes to the Employee Handbook as they occur.
+
+Should there be any discrepancy between the Handbook and other documents of the Company, the policies incorporated in the Handbook shall govern. This Employee Handbook supersedes any and all other previous Team Coaches Employee Handbooks or other Team Coaches policies, whether written or oral.
+
+Policies set forth in this Handbook are not intended to create a contract, nor are they to be construed to constitute contractual obligations of any kind or a contract of employment between Team Coaches and any of its employees. No person can enter into an employment contract with Team Coaches for a specified period of time or make any agreement contrary to this policy without written approval from CEO.
+
+The provisions of the handbook have been developed at the discretion of management and may be audited, amended or cancelled at any time, at Team Coaches’s sole discretion. Whenever the word “Company” is used, it refers to the employer, “Team Coaches”.
