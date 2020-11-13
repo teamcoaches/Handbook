@@ -14,10 +14,10 @@ Diego // Team Coaches
 
 # Table of Contents
 
-1. [Operation](https://github.com/diealvarado/TeamCoaches_handbook#operation)
-2. [Team](https://github.com/diealvarado/TeamCoaches_handbook#team)
-3. [Our Story](https://github.com/diealvarado/TeamCoaches_handbook#our-story)
-4. [Development](https://github.com/diealvarado/TeamCoaches_handbook#handbook-use-and-policy)
+1. [Operation](https://github.com/teamcoaches/TeamCoaches_handbook#operation)
+2. [Team](https://github.com/teamcoaches/TeamCoaches_handbook#team)
+3. [Our Story](https://github.com/teamcoaches/TeamCoaches_handbook#our-story)
+4. [Handbook Use and Policy](https://github.com/teamcoaches/TeamCoaches_handbook#handbook-use-and-policy)
 
 ## Operation
 We are meaninful while expressing ourself. We need to make sure that personal life goes first without impacting our business. \
