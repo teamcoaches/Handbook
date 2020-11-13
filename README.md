@@ -16,7 +16,8 @@ Diego // Team Coaches
 
 1. [Operation](https://github.com/diealvarado/TeamCoaches_handbook#operation)
 2. [Team](https://github.com/diealvarado/TeamCoaches_handbook#team)
-3. [Development](https://github.com/diealvarado/TeamCoaches_handbook#development)
+3. [Our Story](https://github.com/diealvarado/TeamCoaches_handbook#Our-Story)
+4. [Development](https://github.com/diealvarado/TeamCoaches_handbook#Handbook-Use-and-Policy)
 
 ## Operation
 We are meaninful while expressing ourself. We need to make sure that personal life goes first without impacting our business. \
