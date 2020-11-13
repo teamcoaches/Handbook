@@ -1,7 +1,7 @@
-#The Tools
+# The Tools
 List of tools that we use to make our live more efficient and productive.
 
-##Business
+## Business
 1. **Hubspot:** Sales and marketing focus.
 2. **Slack:** our daily communication tool.
 3. **Zoom:** All of our meetings are done through Zoom. 
@@ -17,5 +17,5 @@ List of tools that we use to make our live more efficient and productive.
 3. **DigitalOcean:** hosting our software
 4. **Netlify:** for our fron-end
 
-##Our Stack
+## Our Stack
 - [The stack](https://stackshare.io/stack-edit/team-coaches/team-coaches/)
