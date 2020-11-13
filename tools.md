@@ -11,7 +11,7 @@ List of tools that we use to make our live more efficient and productive.
 5. **Stripe:** for payments
 6. **PandaDoc:** sign documents
 
-##Development
+## Development
 1. **JIRA:** use cases, tasks and bugs are reported here.
 2. **Github:** All of our repository is located on Github. We must upload the code to this repository to be considered done. We expect github to be up to date.
 3. **DigitalOcean:** hosting our software
