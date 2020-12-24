@@ -27,14 +27,14 @@ This is something that you must know from the beginning. Everything needs to be 
 Meaning that if there are bad, good or really awful things that are wrong, we will listen.
 We know that mistakes are what let us learn and improve so we are focus on making things happening going through every stone in the way.
 
-## 2. Decisions
+### 2. Decisions
 We need everyone to be accountable on their own decision. If there is a decision that needs to be made, we need to do it now.
 We are small enough to know that if there is no speed we won't be hear tomorrow.
 
-## 3. Look behind the person
+### 3. Look behind the person
 Every person has his personal life. There are time that personal and work can't be differentiated, so be meaningful. Make sure that you understand the behavior that they are expressing and don't feel it personal.
 
-## 4. Culture
+### 4. Culture
 People refers to company culture and culture fit too much. I am looking for cultural diversed company where people no matter race, creed, color, ethnicity, national origin, religion, sex, sexual orientation, gender expression, age, height, weight, physical or mental ability, veteran status, military obligations, and marital status can interact and make the best of this world.
 We believe that if we have a diverse company, we can expect better results generated from different point of view. That allows us to focus in a global market and make the best innovation tools for all.
 
@@ -52,12 +52,28 @@ Jesse is in charge of development and deployment. He mainly focuses on the back-
 
 Agustín is in charge of front-end development and systems engineering student. He makes things visualy better and apply new concepts constantly. In his spare time he plays drums.
 
+**Edisson - Q&A** [linkedin](https://www.linkedin.com/in/edisson-alexander-ruiz-6090b1129/)
+
+Break things matter!!! Expert advocator in breaking our code base.
+
+**Lina - Operations** [linkedin](https://www.linkedin.com/in/linamariaaristizabalc/)
+
+Operation is a passion. Knowing about everything is at the change.
+
+**Ray - Marketing** [linkedin](https://www.linkedin.com/in/ray-mccann/)
+
+Marketing and editor intern. Learning about the future.
+
+
 ## Our story
 
-After years of mentoring and coaching, innovation programs are getting complex and bigger every day. Our vision is that every innovation program uses a set of tools to increase the success rate for startups and project being incubated.
+We starts with a clear problem, change the way that innovation programs are managed and operated. After years of mentoring and coaching, innovation programs are getting to a point that they are ineficient to run if just using excel or even multiple tools.
 
-To achieve that we have built a simple B2B SAAS platform for innovation programs that integrates collaboration, operation, community, and portfolio all in one place. 
-Programs will be centralized in one platform that will help them to make decision quicker. That will reduce the waste and increase efficiency.
+Our vision is that every innovation program uses a set of tools in one platform to increase the success rate for startups and project being incubated.
+
+To achieve that Team Coaches was built to be the entreprenership community platform for innovation programs.
+
+Programs will be centralized in one platform that will help them to make decision quicker. That will reduce the waste and increase efficiency. (We estimate that at least 5 hours per week will be reduced by using our platform)
 
 However the intension is also to help entrepreneur to start learning a productivity world making a simple approach to look for objectives, mentrics, initiatives and tasks.
 
