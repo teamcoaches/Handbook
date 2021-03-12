@@ -52,17 +52,9 @@ Jesse is in charge of development and deployment. He mainly focuses on the back-
 
 Agustín is in charge of front-end development and systems engineering student. He makes things visualy better and apply new concepts constantly. In his spare time he plays drums.
 
-**Edisson - Q&A** [linkedin](https://www.linkedin.com/in/edisson-alexander-ruiz-6090b1129/)
-
-Break things matter!!! Expert advocator in breaking our code base.
-
 **Lina - Operations** [linkedin](https://www.linkedin.com/in/linamariaaristizabalc/)
 
 Operation is a passion. Knowing about everything is at the change.
-
-**Ray - Marketing** [linkedin](https://www.linkedin.com/in/ray-mccann/)
-
-Marketing and editor intern. Learning about the future.
 
 
 ## Our story
