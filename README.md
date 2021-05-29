@@ -48,13 +48,9 @@ Diego is the Product Owner, Sales guys, Operations and everything where there is
 
 Jesse is in charge of development and deployment. He mainly focuses on the back-end (API/Databases/Docker) but also orchestrates larger front-end features.
 
-**Agustin - Front-End** [linkedin](https://www.linkedin.com/in/agustinch/)
+**Agustin - Full-stack Developer** [linkedin](https://www.linkedin.com/in/agustinch/)
 
 Agustín is in charge of front-end development and systems engineering student. He makes things visualy better and apply new concepts constantly. In his spare time he plays drums.
-
-**Lina - Operations** [linkedin](https://www.linkedin.com/in/linamariaaristizabalc/)
-
-Operation is a passion. Knowing about everything is at the change.
 
 
 ## Our story
