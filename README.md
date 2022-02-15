@@ -42,15 +42,19 @@ We believe that if we have a diverse company, we can expect better results gener
 
 **Diego - it is my fault** - [@diealvarado](https://twitter.com/diealvarado) [linkedin](https://www.linkedin.com/in/alvarado/)
 
-Diego is the Product Owner, Sales guys, Operations and everything where there is no position established. In his spare time he like to go camping and live outdoor with his family.
+Diego is the Sales guys, Operations and everything where there is no position established. In his spare time he like to go camping and live outdoor with his family.
 
 **Jesse - Development guru** [linkedin](https://www.linkedin.com/in/jesse-holden)
 
 Jesse is in charge of development and deployment. He mainly focuses on the back-end (API/Databases/Docker) but also orchestrates larger front-end features.
 
-**Agustin - Full-stack Developer** [linkedin](https://www.linkedin.com/in/agustinch/)
+**Johan - Sales and Marketing** [linkedin](https://www.linkedin.com/in/johan-valbuena-s%C3%A1nchez/)
 
-Agustín is in charge of front-end development and systems engineering student. He makes things visualy better and apply new concepts constantly. In his spare time he plays drums.
+Bringing fresh ideas for marketing and growth, and sclaing the sales process on the go.
+
+**Frederick - Front-End Developer** [linkedin](https://www.linkedin.com/in/frederick-o-12081aa2/)
+
+Freshman front-end with a lot of impact for the future in innovation.
 
 
 ## Our story
