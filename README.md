@@ -52,7 +52,7 @@ Jesse is in charge of development and deployment. He mainly focuses on the back-
 
 Bringing fresh ideas for marketing and growth, and sclaing the sales process on the go.
 
-**Johnson - Lead Developer** [linkedin](https://www.linkedin.com/in/frederick-o-12081aa2/)
+**Johnson - Lead Developer** [linkedin](https://www.linkedin.com/in/johnson-a-b2763b162/)
 
 Leading the webapp development with a lot of impact for the future in innovation.
 
